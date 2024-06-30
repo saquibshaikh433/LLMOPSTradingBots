@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+tradingbot_venv/
+
 
 # Spyder project settings
 .spyderproject
